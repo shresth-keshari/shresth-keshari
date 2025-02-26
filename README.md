@@ -92,11 +92,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/shresth-keshari/shresth-keshari/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <img align="right" height="122" src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif?cid=790b7611d2cnq307n2mnqjogdzgxdtzh20xaxjwgqzr6zd9w&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
