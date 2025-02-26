@@ -1,10 +1,10 @@
 <br clear="both">
 
-<h2 align="left">Hi, myself Shresth !!</h2>
+<h2 align="left"> <span style="display: inline-block; width: 50%;"> Hi, myself Shresth !!</h2>
 
 ###
 
-<h4 align="left">- Machines .. Circuits .. Code .. repeat.<br>- pursuing Mechanical Engineering.</h4>
+<h4 align="left"><span style="display: inline-block; width: 50%;">- Machines .. Circuits .. Code .. repeat.<br>- pursuing Mechanical Engineering.</h4>
 
 ###
 
@@ -97,9 +97,9 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://media.giphy.com/media/NTqrLx73zHrRbLGoHJ/giphy.gif?cid=ecf05e47calc605gb5643yxvhpfqm66bpb2y1utipf8uvr97&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="135" src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif?cid=790b7611h1nlpddd5qsjfoq8dbloxd19uav19kgvsbam1sqi&ep=v1_gifs_search&rid=giphy.gif&ct=g)"  />
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shresth-keshari/shresth-keshari/output/github-snake-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shresth-keshari/shresth-keshari/output/github-snake.svg" />
-<img src="https://raw.githubusercontent.com/shresth-keshari/shresth-keshari/output/snake.svg" alt="github-snake" width="200"/>
+<img src="https://raw.githubusercontent.com/shresth-keshari/shresth-keshari/output/snake.svg" alt="github-snake" width="800"/>
 </picture>
