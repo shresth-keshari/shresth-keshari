@@ -92,25 +92,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
-###
-
-<img align="right" height="122" src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif?cid=790b7611d2cnq307n2mnqjogdzgxdtzh20xaxjwgqzr6zd9w&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
-<img align="right" height="120" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjY4czl6NnprZmg3NXVpY3drZ3RpeTR2Y3l4M3Q2c3l6a3Q3NzUweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/111ebonMs90YLu/giphy.gif"  />
+<br clear="both">
+
+<img align="right" height="150" src="https://media.giphy.com/media/NTqrLx73zHrRbLGoHJ/giphy.gif?cid=ecf05e47calc605gb5643yxvhpfqm66bpb2y1utipf8uvr97&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
-
-<img align="left" height="110" src="https://media.giphy.com/media/NTqrLx73zHrRbLGoHJ/giphy.gif?cid=ecf05e47calc605gb5643yxvhpfqm66bpb2y1utipf8uvr97&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shresth-keshari/shresth-keshari/output/github-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shresth-keshari/shresth-keshari/output/github-snake.svg" />
+<img src="https://raw.githubusercontent.com/shresth-keshari/shresth-keshari/output/snake.svg" alt="github-snake" />
 ###
-
-<img align="right" height="120" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWhydHV5NXFtYXNnaXJwMG9wajgydnVpYmtrMDl5dGhobno3amVrYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGCSNmrITa4qbFNOSM/giphy.gif"  />
-
-###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shresth-keshari/shresth-keshari/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shresth-keshari/shresth-keshari/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/shresth-keshari/shresth-keshari/output/github-snake.svg" />
-</picture>
