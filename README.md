@@ -98,11 +98,8 @@
 <br clear="both">
 
 <img align="right" height="150" src="https://media.giphy.com/media/NTqrLx73zHrRbLGoHJ/giphy.gif?cid=ecf05e47calc605gb5643yxvhpfqm66bpb2y1utipf8uvr97&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shresth-keshari/shresth-keshari/output/github-snake-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shresth-keshari/shresth-keshari/output/github-snake.svg" />
 <img src="https://raw.githubusercontent.com/shresth-keshari/shresth-keshari/output/snake.svg" alt="github-snake" />
 </picture>
-###
