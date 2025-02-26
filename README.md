@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="left"><span style="display: inline-block; width: 50%;">- Machines .. Circuits .. Code .. repeat.<br>- pursuing Mechanical Engineering.</h4>
+<h3 align="left"><span style="display: inline-block; width: 50%;">- Machines .. Circuits .. Code .. repeat.<br>- pursuing Mechanical Engineering.</h3>
 
 ###
 
