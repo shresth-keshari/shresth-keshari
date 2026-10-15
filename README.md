@@ -97,9 +97,9 @@
 
 <br clear="both">
 
-<img align="right" height="135" src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif?cid=790b7611h1nlpddd5qsjfoq8dbloxd19uav19kgvsbam1sqi&ep=v1_gifs_search&rid=giphy.gif&ct=g)"  />
+<!-- <img align="right" height="135" src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif?cid=790b7611h1nlpddd5qsjfoq8dbloxd19uav19kgvsbam1sqi&ep=v1_gifs_search&rid=giphy.gif&ct=g)"  />
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shresth-keshari/shresth-keshari/output/github-snake-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shresth-keshari/shresth-keshari/output/github-snake.svg" />
 <img src="https://raw.githubusercontent.com/shresth-keshari/shresth-keshari/output/snake.svg" alt="github-snake" width=75%/>
-</picture>
+</picture> -->
